@@ -38,7 +38,7 @@ To run this recipe generator locally, follow these steps:
 
 1. Select a country from the dropdown menu.
 2. Choose between "Vegetarian," "Non-Vegetarian," or "No Preference" for the type of dish.
-3. Optionally, enter specific ingredients in the text input.
+3. Optionally, enter other rquirements in the text input.
 4. Click the "Generate Recipe" button to generate a cooking recipe based on the provided inputs.
 
 ## Code Structure
